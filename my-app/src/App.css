@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.App-top-bar {
+  background-color: #a8b9db;
+
+}
+
+body {
+  background-color: #282c34;
+  color: white;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
